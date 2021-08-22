@@ -12,12 +12,12 @@ class Bio extends SoftwareDeveloper {
   name     = 't3rry327';
   title    = 'Senior Software Developer';
   company  = 'Unknown';
-  location = 'Rosario, Santa Fe';
+  location = 'Rosario, Santa Fe, Argentina';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'PHP', 'Java', 'C#', 'Kotlin' ...Languages];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  languages  = ['JavaScript', 'TypeScript', 'PHP', 'Java', 'C#', 'Kotlin', 'Python', 'Swift' ...Languages];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'NoSql'];
   frameworks = ['Vue', 'React', 'Laravel', 'Xamarin' ...Frameworks];
 }
 
