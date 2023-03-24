@@ -8,7 +8,7 @@ import { Languages, Frameworks } from 't3rry327/skills';
 
 class Bio extends SoftwareDeveloper {
   name     = 't3rry327';
-  title    = 'Senior Software Developer';
+  title    = 'Software Developer';
   company  = 'Unknown';
   location = 'Rosario, Santa Fe, Argentina';
 }
