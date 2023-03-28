@@ -8,15 +8,16 @@ import { Languages, Frameworks } from 't3rry327/skills';
 
 class Bio extends SoftwareDeveloper {
   name     = 't3rry327';
-  title    = 'Software Developer';
-  company  = 'Unknown';
+  title    = 'Game Developer';
+  company  = 'Stage1 Labs';
   location = 'Rosario, Santa Fe, Argentina';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'PHP', 'Java', 'C#', 'Kotlin', 'Python', 'C++' ...Languages];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['Node.js', 'React.js', 'Laravel', 'Express' ...Frameworks];
+  languages  = ['JavaScript', 'TypeScript', 'PHP', 'Java', 'C#', 'Kotlin', 'Python', 'C++', 'Shell' ...Languages];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'Redis'];
+  frameworks = ['Node.js', 'Laravel', 'Express', 'Spring' ...Frameworks];
+  fact = 'average eaad (Excel as a database) hater'
 }
 
 ```
